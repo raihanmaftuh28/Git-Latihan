@@ -1,2 +1,3 @@
-print("halo Dunia !")
+print("halo Orbit !")
 print("Belajar AI !")
+print("Yes !")
